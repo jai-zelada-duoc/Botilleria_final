@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "botilleria-poo"
+version = "1.8.1"
+description = "Área de ventas de una botillería con POO, MVC y persistencia CSV"
+requires-python = ">=3.12"
+
+[project.scripts]
+botilleria = "botilleria.__main__:main"
+botilleria-demo = "botilleria.demo:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

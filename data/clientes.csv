@@ -1,0 +1,4 @@
+﻿id,nombre,telefono,direccion,es_vip,compras,total_comprado
+cli-camila,Camila Soto,+56911112222,Av. Central 123,no,1,50000
+cli-andres,Andrés Rojas,+56933334444,Los Aromos 45,si,1,17550
+cli-aimara,Aimara Bormuth,+5691234567,Av. Siempre Viva 111,si,0,0

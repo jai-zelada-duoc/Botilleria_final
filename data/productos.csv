@@ -1,0 +1,5 @@
+﻿id,tipo,nombre,precio,stock,mililitros,categoria
+P001,bebida,Cerveza Cristal,1500,17,355,
+P002,bebida,Cerveza Royal,1500,10,355,
+P003,snack,Papas fritas,2500,13,,Acompañamiento
+P004,bebida,Tequila - Sombrero Negro,10000,0,960,
