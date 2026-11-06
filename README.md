@@ -1,6 +1,6 @@
 # Botillería — Área de ventas (Python) — Versión 1.8.1
 
-Área de ventas de una botillería con POO, siguiendo la estructura de FlashFood. Es la conversión a Python de la v1.0 en Java.
+Área de ventas de una botillería con POO.
 
 ## Ejecutar
 
